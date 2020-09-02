@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/ArtemArturovichBondarenko/goit-js-hw-13-image-finder",
+  "homepage": "https://github.com/Volnechyporenko/goit-js-hw-13-image-finder",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
